@@ -18,7 +18,7 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=Next.js&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL&logoColor=fff)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskaa02)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskaa02&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects I'm Proud Of
 
